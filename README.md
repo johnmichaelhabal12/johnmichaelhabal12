@@ -1,4 +1,4 @@
-### Hi there 👋
+### Johnmichaelhabal12.github.io
 
 <!--
 **johnmichaelhabal12/johnmichaelhabal12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
